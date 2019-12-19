@@ -5,6 +5,6 @@ Este es el ejercicio del curso
 
 Instalar paquetes :
 ```
-npm -instal
+npm -instalL
 ```
 
